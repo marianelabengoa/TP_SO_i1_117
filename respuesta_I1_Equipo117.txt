@@ -6,4 +6,6 @@ a- si, puedo verlos
 b- si, pueden verlo 
 c- Lo ven cuando Beta hace el push.
 d- Nos comunicamos meidante whatsapp y meet.
+e- Asignacion de tareas por medio del PROJECTS de GitHub, ya que se se pueden definir tareas,
+indicar cuales estan completas o no.
 
