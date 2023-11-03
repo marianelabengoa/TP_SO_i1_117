@@ -1,6 +1,9 @@
 bengoa marianela (alfa)
-a- si, puedo verlos
-b- si, pueden verlo 
 theo torres (beta)
 micaela vazquez (gamma)
+
+a- si, puedo verlos
+b- si, pueden verlo 
+c- Lo ven cuando Beta hace el push.
+d- Nos comunicamos meidante whatsapp y meet.
 
